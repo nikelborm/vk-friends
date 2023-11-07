@@ -1,0 +1,25 @@
+{
+  "name": "vk-friends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env index.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "nikelborm",
+    "email": "kolya007.klass@gmail.com",
+    "url": "https://github.com/nikelborm"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/ncc": "^0.38.1",
+    "graphology": "^0.25.4",
+    "open": "^9.1.0",
+    "prompts": "^2.4.2",
+    "vk-io": "^4.8.3",
+    "zod": "^3.22.4"
+  }
+}
