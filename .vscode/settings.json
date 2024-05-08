@@ -1,0 +1,7 @@
+{
+  "json.maxItemsComputed": 100,
+  "editor.foldingMaximumRegions": 100,
+  "indentRainbow.excludedLanguages": [
+    "json"
+  ]
+}

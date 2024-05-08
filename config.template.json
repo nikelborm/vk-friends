@@ -1,0 +1,8 @@
+{
+  "userAccessToken": null,
+  "previouslyAskedToSearchForUserIds": [],
+  "notInterestedInUserIdsOrNicknames": [],
+  "unresolvedNicknamesAndIdsOfPeopleToSearchFor": ["nickname", "id1"],
+  "resolvedFriendGraphNodes": [],
+  "resolvedFriendships": []
+}
